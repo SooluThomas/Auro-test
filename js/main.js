@@ -17,7 +17,7 @@
     };
     $(function() {
         var lastSend;
-        var getMessageText, message_side, sendMessage;
+        var getMessageText, message_side;
         message_side = 'right';
         getMessageText = function() {
             var $message_input;
@@ -60,48 +60,41 @@
                 scrollTop: $messages.prop('scrollHeight')
             }, 300);
         };
-        $('.send_message').click(function(e) {
-            lastSend = $('.message_input').val();
-            return receiveMessage(getMessageText());
-        });
+        // $('.send_message').click(function(e) {
+        //     lastSend = $('.message_input').val();
+        //     return receiveMessage(getMessageText());
+        // });
         $('.message_input').keyup(function(e) {
             lastSend = $('.message_input').val();
             if (e.which === 13) {
+                 var user_data=lastSend;
+                console.log(user_data);
+                RequestAPI(user_data);
                 return receiveMessage(getMessageText());
 
             }
         });
         sendMessage('Hello User! What would you like to know?');
-        // lastSend('who are you');
-        // myFunction();
-        // function myFunction() {
-        //     var uri = lastSend;
-        //     var res = encodeURI(uri);
-        //     sendMessage('working!!' + res);
-        // }
-
-
-        // $(function AJAXFun() {
-        //     var $reply = $('#reply').val();
-
-        //     $.ajax({
-        //         type = 'GET',
-        //         url = res,
-        //         success: function(reply){
-        //             //console.log('success',data);
-        //             $.each(receiveMessage(reply){
-        //                 $orders.append('<p>'+ reply +'</p>')
-        //             });
-        //         }
-        //     });
-        // });
-        // AJAXFun();
-        myURL = 'auro-api.herokuapp.com/api/?q=' + lastSend;
-        var ourRequest = new XMLhttpRequest();
-        ourRequest.open('GET', myURL);
-        ourRequest.onload = NEWfunction(){
-            console.log(ourRequest.responseText);
-        };
-        ourRequest.send();
+        $('#send_button').on('click',function(){
+            var user_data=lastSend;
+            console.log(user_data);
+            RequestAPI(user_data);
+        });
     });
 }.call(this))
+
+function RequestAPI(request_data){
+    myURL = 'https://auro-api.herokuapp.com/api/?q=' + request_data;
+        var api_reply;
+        var ourRequest = new XMLHttpRequest();
+        ourRequest.open('GET', myURL);
+        ourRequest.onreadystatechange=function(){
+            if(this.readyState==4 && this.status==200){
+                api_reply=this.responseText;
+                // console.log(api_reply);
+                sendMessage(api_reply);
+            }
+        }
+        ourRequest.open('GET', myURL, true);
+        ourRequest.send();
+}
