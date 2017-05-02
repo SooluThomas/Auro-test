@@ -1,0 +1,32 @@
+\select@language {english}
+\contentsline {chapter}{List of Figures}{i}
+\contentsline {chapter}{List of Tables}{ii}
+\contentsline {chapter}{\numberline {1}PREAMBLE}{1}
+\contentsline {section}{\numberline {1.1}Problem defenition}{1}
+\contentsline {section}{\numberline {1.2}Objective}{1}
+\contentsline {section}{\numberline {1.3}Scope}{1}
+\contentsline {section}{\numberline {1.4}Introduction to the project}{2}
+\contentsline {chapter}{\numberline {2}SYSTEM STUDY}{3}
+\contentsline {section}{\numberline {2.1}Introduction}{3}
+\contentsline {section}{\numberline {2.2}Overall Description}{5}
+\contentsline {section}{\numberline {2.3}External Interface Requirements}{5}
+\contentsline {section}{\numberline {2.4}System Features}{6}
+\contentsline {section}{\numberline {2.5}Non-functional Requirements}{7}
+\contentsline {section}{\numberline {2.6}System Specification}{7}
+\contentsline {subsection}{\numberline {2.6.1}Software Specification}{8}
+\contentsline {chapter}{\numberline {3}SYSTEM DESIGN AND MODELLING}{12}
+\contentsline {section}{\numberline {3.1}Design Methodologies}{12}
+\contentsline {section}{\numberline {3.2}System Architecture}{14}
+\contentsline {section}{\numberline {3.3}Data Flow Diagram}{14}
+\contentsline {section}{\numberline {3.4}Use Case Diagram}{16}
+\contentsline {chapter}{\numberline {4}IMPLEMENTATION}{18}
+\contentsline {section}{\numberline {4.1}Introduction}{18}
+\contentsline {section}{\numberline {4.2}Implentation Methods}{19}
+\contentsline {chapter}{\numberline {5}TESTING}{20}
+\contentsline {section}{\numberline {5.1}Introduction}{20}
+\contentsline {section}{\numberline {5.2}Test Cases}{22}
+\contentsline {chapter}{\numberline {6}CONCLUSION}{24}
+\contentsline {section}{\numberline {6.1}Advantages and Disadvantages of Auro}{24}
+\contentsline {section}{\numberline {6.2}Future Scope}{25}
+\contentsline {chapter}{APPENDIX A}{iv}
+\contentsline {chapter}{APPENDIX B}{xxii}

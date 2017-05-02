@@ -1,0 +1,131 @@
+\section{Introduction}
+\subsection*{Purpose}
+Nowadays we have to scroll and search hard and need to go through different applications to get what we actually want.  Our proposed system is a solution to this problem.  The project is to build a personal digital assistant which is able to accept queries in the form of text (English) and respond back.  This application can be used to get or fetch the user required process based on the input provided.  This document is intended for both the stakeholders and the developers of the software and will be proposed to the committee for its approval.
+
+\subsection*{Document Conventions}
+All system development activities should follow the final version of this document.  Any discrepancy that found during in later phases should be modified subject to SRS.  However, this document may be subjected to change depending on the decision of the group members.
+\newline
+The typographical conventions used in writing this SRS are:
+\begin{itemize}
+\item SRS main headings : font = Times New Roman, Bold, size = 18
+\item SRS sub headings  : font = Times New Roman, Bold, size=14
+\item SRS Body text     : font = Times New Roman, size = 12
+\end{itemize}
+Header and footer font size =10,  Italics, Times New Roman.  The document contains header and footer on all pages.  Header is the name of the project on the top-left end and page number.
+Bullets are used to denote main points in the section.
+\subsection*{Intended Audience and Reading Suggestion}
+This document contains general information based on our Mini Project on building a personal digital assistant which will be implemented using python programming language.
+The document is intended for different types of users such as:
+\newline
+\textbf{Administrators}:  In order to be sure they are developing the right project that fulfills
+requirements provided in this document.
+\newline
+\textbf{Developers}: In order to be sure they are developing the right project that fulfills
+requirements provided in this document.
+\newline
+\textbf{Testers}: In order to have an exact list of features and functions that have to respond according to requirements and provided diagrams. 
+\newline
+\textbf{Users}:​ ​ In order to get familiar with the idea of the project and suggest other features that would make it even more functional.
+\newline
+The topics are in their increasing order of specificity. The rest of the SRS contain overall description, external interface requirements, system features and other non-functional requirements.                               
+\subsection*{Product Scope}
+The scope of this product is to provide an efficient and enhanced tool for the users to perform various operations quickly and more efficiently.  It finds application in many fields such as medical, educational etc.  Our project is actually a demonstration of Machine learning and Natural Language Processing.  The main objective of the proposed system is to convert machines to user friendly devices through the use the use of Machine Learning and Natural Language processing. 
+
+\section{Overall Description}
+\subsection*{Product Perspective}
+In this project, we present an implementation of a Personal Digital Assistant - AURO, which is  able to understand the inputs given to the computer (in English) by the user, analyze the sentence and produce the desired output.
+\subsection*{User Classes and Characteristics}
+We have only one user class since we don’t have any security levels or privilege levels.  Our user base includes any user who uses AURO app.  The users of this project is global i.e., anyone can be the user of this application.  This application is meant to be used based on the application the project is implemented.  Our project is made as a demonstration of Natural Language Processing and Artificial Intelligence. 
+\section{External Interface Requirements}
+\subsection*{User Interfaces}
+The user interface for this project is through a web browser.  A chat box is provided so that the user is able to enter his query or sentence as input.
+\subsection*{Hardware Interfaces}
+The entire software require completely equipped computer system including monitor, keyboard and mouse.
+\subsection*{Software Interfaces}
+The system uses Natural Language ToolKit (NLTK), a python package for natural language processing.  NLTK requires python 2.7 or above versions. 
+\subsection*{Communication Interfaces}
+The system requires an active internet in order to access the data from the data store.  
+\section{System Features}
+\textbf{AURO} is an application that accepts commands from the user in the form of text (natural language) and reply back again in text (natural language).
+\subsection*{Tokenize the inputs from the user}
+
+\subsubsection*{Description and priority}
+In lexical analysis, tokenization is the process of breaking a stream of text up into words, phrases, symbols, or other meaningful elements called tokens. The list of tokens becomes input for further processing such as parsing or text mining.  This feature is very much important as each word has to be extracted separately in order to choose and analyze the question of the user.
+
+\subsubsection*{Functional Requirement}
+FREQ-1: Any question or input provided by the user.
+
+
+\subsection*{Filter appropriate Keywords from the tokenized input}
+\subsubsection*{Description and Priority}
+This feature analyzes the important terms or words from the tokenized user input so as to analyze the need of the user and to provide the user with the required output.
+
+\subsection*{Form and process Querry}
+\subsubsection*{Description and Priority}
+This feature forms and process the query which will be compared with data in the database and give required output. 
+
+\section{Non-functional Requirements}
+\subsection*{Performance Requirements}
+The performance of system lies in the way it is handled.  The other factor of performance is the absence of any suggested requirements.
+
+\subsection*{Safety Requirements}
+No such safety requirement is needed.
+
+\subsection*{Security Requirements}
+No such security requirement is needed.
+\
+\subsection*{Software Quality Attributes}
+\begin{enumerate}
+\item \textbf{Easy to operate}: The system should be easy to operate and limited to the budget of the user.
+\item \textbf{Accuracy}: The accuracy of the proposed system is moderate.
+\end{enumerate}
+
+\section{System Specification}
+The system specification includes basic software and hardware used for implementing or developing this project which is an important factor for the project.
+
+\subsection{Software Specification}
+The selection of an appropriate software for devolopment is an important task, since completion of the system is greatly dependent on software selected. The different software used AURO includes :
+\subsubsection*{Python}
+Python is an interpreted, general-purpose high-level programming language whose design philosophy emphasizes code readability. Python aims to combine "remarkable power with very clear syntax" and its standard library is large and comprehensive. Its use of indentation for block delimiters is unique among popular programming languages.\newline
+Python supports multiple programming paradigms, primarily but not limited to object-oriented, imperative and, to a lesser extent, functional programming styles. It features a fully dynamic type system and automatic memory management, similar to that of Scheme, Ruby, Perl, and Tcl. Like other dynamic languages, Python is often used as a scripting language, but is also used in a wide range of non-scripting contexts. Python interpreters are available for many operating systems, and Python programs can be packaged into stand-alone executable code for many systems using various tools. Python is a multi-paradigm programming language.
+\newline
+Rather than forcing programmers to adopt a particular style of programming, it permits several styles: object-oriented programming and structured programming are fully supported, and there are a number of language features which support functional programming and aspect-oriented programming.
+\newline
+Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management. An important feature of Python is dynamic name resolution, which binds method and variable names during program execution.
+\newline
+Rather than requiring all desired functionality to be built into the language's core, Python was designed to be highly extensible. The design of Python offers only limited support for functional programming in the Lisp tradition.
+\newline
+Python was intended to be a highly readable language. It is designed to have an uncluttered visual layout, frequently using English keywords where other languages use punctuation. Python requires less boilerplate than traditional manifestly typed structured languages such as C or Pascal, and has a smaller number of syntactic exceptions and special cases than either of these.
+\newline
+Python uses whitespace indentation, rather than curly braces or keywords, to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.
+\newline
+Python uses duck typing and has typed objects but untyped variable names. Type constraints are not checked at compile time; rather, operations on an object may fail, signifying that the given object is not of a suitable type. Despite being dynamically typed, Python is strongly typed, forbidding operations that are not well-defined rather than silently attempting to make sense of them.
+\newline
+Python allows programmers to define their own types using classes, which are most often used for object-oriented programming. New instances of classes are constructed by calling the class, and the classes themselves are instances of the metaclass type , allowing metaprogramming and reflection.
+
+\subsubsection*{Django}
+Django is a free and open source web application framework, written in Python. A web framework is a set of components that helps you to develop websites faster and easier. When you are  building a website, you always need a similar set of components: a way to handle user authentication (signing up, signing in, signing out), a management panel for your website, forms, a way to upload files, etc. Django give us the ready made components to use. These framework help to reduce the burden of building a new site. The web server reads the letter and then sends a response with a webpage. The django is used to create the content of the webpage.
+\newline
+When a request comes to a web server, it is passed to Django which tries to figure out what is actually requested. It takes a web page address first and tries to figure out what to do. This part is done by Django's urlresolver. It is not very smart – it takes a list of patterns and tries to match the URL. Django checks patterns from top to bottom and if something is matched, then Django passes the request to the associated function (which is called view).
+
+\subsubsection*{jQuery}
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+\newline
+The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+
+\subsubsection*{Heroku}
+Heroku is a cloud Platform-as-a-Service (PaaS) supporting several programming languages that is used as a web application deployment model.  Heroku, one of the first cloud platforms, has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go.  For this reason, Heroku is said to be a polyglot platform as it lets the developer build, run and scale applications in a similar manner across all the languages. 
+\newline
+Applications that are run from the Heroku server use the Heroku DNS Server to direct to the application domain (typically ``applicationname.herokuapp.com").  Each of the application containers, or dynos, are spread across a ``dyno grid" which consists of several servers.  Heroku's Git server handles application repository pushes from permitted users.
+
+\subsubsection*{Natural Language Toolkit}
+The Natural Language Toolkit (NLTK) is a Python package for natural language processing. NLTK requires Python 2.7, or 3.4+. NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries.
+\newline
+NLTK is suitable for linguists, engineers, students, educators, researchers, and industry users alike. NLTK is available for Windows, Mac OS X, and Linux.
+
+\subsubsection*{Git}
+Git is a version control system(VCS) for tracking changes in computer files and coordinating work on those files among multiple people.  It is primarily used for software development, but it can be used to keep track of changes in any files.  As a distributed revision control system it is aimed at speed, data integrity, and support for distributed, non-linear workflows.
+\newline
+Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development.  Its current maintainer since 2005 is Junio Hamano.
+\newline
+As with most other distributed version control systems, and unlike most client – server systems, every Git directory on every computer is a full-fledged repository with complete history and full version tracking abilities, independent of network access or a central server.  Like the Linux kernel, Git is free software distributed under the terms of the GNU General Public License version 2.

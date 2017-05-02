@@ -1,0 +1,1474 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.4.15)  24 APR 2017 12:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**index.tex
+(./index.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+! Undefined control sequence.
+l.1 \subsection
+               *{Code for User Interface Window}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \subsection*
+                {Code for User Interface Window}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]
+ []
+
+
+Overfull \hbox (78.74931pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 <!DOCTYPE html>[] 
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 <html>[] 
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 <head>[] 
+ []
+
+
+Overfull \hbox (120.74895pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <title>AURO</title>[] 
+ []
+
+
+Overfull \hbox (136.49881pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <meta charset="utf-8">[] 
+ []
+
+
+Overfull \hbox (377.9967pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <meta name="viewport" content="width=device-width, initi
+al-scale=1">[] 
+ []
+
+
+Overfull \hbox (136.49881pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <link rel="stylesheet"[] 
+ []
+
+
+Overfull \hbox (430.49625pt too wide) in paragraph at lines 322--322
+[]     \OT1/cmtt/m/n/10 href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/c
+ss/bootstrap.min.css">[] 
+ []
+
+
+Overfull \hbox (320.24721pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <script src="https://code.jquery.com/jquery-3.2.1.min.js
+"[] 
+ []
+
+
+Overfull \hbox (356.99689pt too wide) in paragraph at lines 322--322
+[]     \OT1/cmtt/m/n/10 integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgx
+VSNgt4="[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]     \OT1/cmtt/m/n/10 crossorigin="anonymous">[] 
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 322--322
+[]     \OT1/cmtt/m/n/10 </script>[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <link[] 
+ []
+
+
+Overfull \hbox (425.24629pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/cs
+s/bootstrap.min.css">[] 
+ []
+
+
+Overfull \hbox (451.49606pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3
+.3.7/js/bootstrap.min.js">[] 
+ []
+
+
+Overfull \hbox (68.2494pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 </script>[] 
+ []
+
+
+Overfull \hbox (388.49661pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <link rel="shortcut icon" type="image/x-icon "href="./re
+s/logo.png" />[] 
+ []
+
+
+Overfull \hbox (141.74876pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <style type="text/css">[] 
+ []
+
+
+Overfull \hbox (57.7495pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 * {[] 
+ []
+
+
+Overfull \hbox (183.7484pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 box-sizing: border-box;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 body {[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #edeff2;[] 
+ []
+
+
+Overfull \hbox (299.24739pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 font-family: "Calibri", "Roboto", sans-serif;[] 
+
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (89.24922pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .navbar {[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 padding-top: 7px;[] 
+ []
+
+
+Overfull \hbox (167.99854pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 padding-bottom: 7px;[] 
+ []
+
+
+Overfull \hbox (115.499pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border: 0;[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-radius: 0;[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 margin-bottom: 0;[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 font-size: 16spx;[] 
+ []
+
+
+Overfull \hbox (167.99854pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 letter-spacing: 5px;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (173.24849pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .navbar-nav  li a:hover {[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 color: #1abc9c !important;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (115.499pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .chat_window {[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 position: absolute;[] 
+ []
+
+
+Overfull \hbox (194.2483pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 width: calc(100% - 20px);[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 max-width: 800px;[] 
+ []
+
+
+Overfull \hbox (136.49881pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 height: 500px;[] 
+ []
+
+
+Overfull \hbox (167.99854pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-radius: 10px;[] 
+ []
+
+
+Overfull \hbox (183.7484pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #fff;[] 
+ []
+
+
+Overfull \hbox (115.499pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 left: 50%;[] 
+ []
+
+
+Overfull \hbox (110.24904pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 top: 50%;[] 
+ []
+
+
+Overfull \hbox (299.24739pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 transform: translateX(-50%) translateY(-50%);[] 
+
+ []
+
+
+Overfull \hbox (293.99744pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #f8f8f8;[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 overflow: hidden;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (99.74913pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .top_menu {[] 
+ []
+
+
+Overfull \hbox (183.7484pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #fff;[] 
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 width: 100%;[] 
+ []
+
+
+Overfull \hbox (173.24849pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 padding: 20px 0 15px;[] 
+ []
+
+
+Overfull \hbox (283.49753pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (146.99872pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .top_menu .buttons {[] 
+ []
+
+
+Overfull \hbox (173.24849pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 margin: 3px 0 0 20px;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 position: absolute;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (188.99835pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .top_menu .buttons .button {[] 
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 width: 16px;[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 height: 16px;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-radius: 50%;[] 
+ []
+
+
+Overfull \hbox (178.49844pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 display: inline-block;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 margin-right: 10px;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 position: relative;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (220.49808pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .top_menu .buttons .button.close {[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #f5886e;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (236.24794pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .top_menu .buttons .button.minimize {[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #fdbf68;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (236.24794pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .top_menu .buttons .button.maximize {[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #a3d063;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (136.49881pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .top_menu .title {[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 text-align: center;[] 
+ []
+
+
+Overfull \hbox (141.74876pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 color: #bcbdc0;[] 
+ []
+
+
+Overfull \hbox (146.99872pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 font-size: 20px;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (99.74913pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages {[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 position: relative;[] 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322 \end{verbatim}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 list-style: none;[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 padding: 20px 10px 0 10px;[] 
+ []
+
+
+Overfull \hbox (115.499pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 margin: 0;[] 
+ []
+
+
+Overfull \hbox (136.49881pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 height: 347px;[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 overflow: scroll;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (146.99872pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message {[] 
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 clear: both;[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 overflow: hidden;[] 
+ []
+
+
+Overfull \hbox (167.99854pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 margin-bottom: 20px;[] 
+ []
+
+
+Overfull \hbox (209.99817pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 transition: all 0.5s linear;[] 
+ []
+
+
+Overfull \hbox (120.74895pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 opacity: 0;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (215.24812pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.left .avatar {[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #f5886e;[] 
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 float: left;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (246.74785pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.left .text_wrapper {[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #ffe6cb;[] 
+ []
+
+
+Overfull \hbox (157.49863pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 margin-left: 20px;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (278.24757pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.left .text_wrapper::after,[] 
+ []
+
+
+Overfull \hbox (288.74748pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.left .text_wrapper::before {[] 
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 right: 100%;[] 
+ []
+
+
+Overfull \hbox (209.99817pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-right-color: #ffe6cb;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (204.74821pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.left .text {[] 
+ []
+
+
+Overfull \hbox (141.74876pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 color: #c48843;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (220.49808pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.right .avatar {[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #fdbf68;[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 float: right;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (251.9978pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.right .text_wrapper {[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #c7eafc;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 margin-right: 20px;[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 float: right;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (283.49753pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.right .text_wrapper::after,[] 
+ []
+
+
+Overfull \hbox (293.99744pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.right .text_wrapper::before {[] 
+ []
+
+
+Overfull \hbox (120.74895pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 left: 100%;[] 
+ []
+
+
+Overfull \hbox (204.74821pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-left-color: #c7eafc;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (209.99817pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.right .text {[] 
+ []
+
+
+Overfull \hbox (141.74876pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 color: #45829b;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (194.2483pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message.appeared {[] 
+ []
+
+
+Overfull \hbox (120.74895pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 opacity: 1;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (188.99835pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message .avatar {[] 
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 width: 60px;[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 height: 60px;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-radius: 50%;[] 
+ []
+
+
+Overfull \hbox (178.49844pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 display: inline-block;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (220.49808pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message .text_wrapper {[] 
+ []
+
+
+Overfull \hbox (178.49844pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 display: inline-block;[] 
+ []
+
+
+Overfull \hbox (136.49881pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 padding: 20px;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-radius: 6px;[] 
+ []
+
+
+Overfull \hbox (194.2483pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 width: calc(100% - 85px);[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 min-width: 100px;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 position: relative;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (251.9978pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message .text_wrapper::after,[] 
+ []
+
+
+Overfull \hbox (257.24776pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message .text_wrapper:before {[] 
+ []
+
+
+Overfull \hbox (115.499pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 top: 18px;[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border: solid transparent;[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 content: " ";[] 
+ []
+
+
+Overfull \hbox (115.499pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 height: 0;[] 
+ []
+
+
+Overfull \hbox (110.24904pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 width: 0;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 position: absolute;[] 
+ []
+
+
+Overfull \hbox (173.24849pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 pointer-events: none;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (257.24776pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message .text_wrapper::after {[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-width: 13px;[] 
+ []
+
+
+Overfull \hbox (146.99872pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 margin-top: 0px;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (262.49771pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message .text_wrapper::before {[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-width: 15px;[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 margin-top: -2px;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (251.9978pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .messages .message .text_wrapper .text {[] 
+ []
+
+
+Overfull \hbox (146.99872pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 font-size: 18px;[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 font-weight: 300;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .bottom_wrapper {[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 position: relative;[] 
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 width: 100%;[] 
+ []
+
+
+Overfull \hbox (183.7484pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #fff;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 padding: 20px 20px;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 position: absolute;[] 
+ []
+
+
+Overfull \hbox (115.499pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 bottom: 0;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (251.9978pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .bottom_wrapper .message_input_wrapper {[] 
+ []
+
+
+Overfull \hbox (178.49844pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 display: inline-block;[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 height: 50px;[] 
+ []
+
+
+Overfull \hbox (167.99854pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-radius: 25px;[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border: 1px solid #bcbdc0;[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 width: calc(100% - 160px);[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 position: relative;[] 
+ []
+
+
+Overfull \hbox (146.99872pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 padding: 0 20px;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (330.74712pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .bottom_wrapper .message_input_wrapper .message_inpu
+t {[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border: none;[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 height: 100%;[] 
+ []
+
+
+Overfull \hbox (183.7484pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 box-sizing: border-box;[] 
+ []
+
+
+Overfull \hbox (194.2483pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 width: calc(100% - 40px);[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 position: absolute;[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 outline-width: 0;[] 
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 color: gray;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (204.74821pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .bottom_wrapper .send_message {[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 width: 140px;[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 height: 50px;[] 
+ []
+
+
+Overfull \hbox (178.49844pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 display: inline-block;[] 
+ []
+
+
+Overfull \hbox (167.99854pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border-radius: 50px;[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #a3d063;[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 border: 2px solid #a3d063;[] 
+ []
+
+
+Overfull \hbox (125.9989pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 color: #fff;[] 
+ []
+
+
+Overfull \hbox (146.99872pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 cursor: pointer;[] 
+ []
+
+
+Overfull \hbox (209.99817pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 transition: all 0.2s linear;[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 text-align: center;[] 
+ []
+
+
+Overfull \hbox (131.24886pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 float: right;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (236.24794pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .bottom_wrapper .send_message:hover {[] 
+ []
+
+
+Overfull \hbox (141.74876pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 color: #a3d063;[] 
+ []
+
+
+Overfull \hbox (183.7484pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 background-color: #fff;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (236.24794pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .bottom_wrapper .send_message .text {[] 
+ []
+
+
+Overfull \hbox (146.99872pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 font-size: 18px;[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 font-weight: 300;[] 
+ []
+
+
+Overfull \hbox (178.49844pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 display: inline-block;[] 
+ []
+
+
+Overfull \hbox (157.49863pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 line-height: 48px;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (141.74876pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .message_template {[] 
+ []
+
+
+Overfull \hbox (136.49881pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 display: none;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (136.49881pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 .container-fluid {[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 padding-top: 5px;[] 
+ []
+
+
+Overfull \hbox (167.99854pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 padding-bottom: 5px;[] 
+ []
+
+
+Overfull \hbox (47.24959pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 }[] 
+ []
+
+
+Overfull \hbox (62.99945pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 </style>[] 
+ []
+
+
+Overfull \hbox (36.74968pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 </head>[] 
+ []
+
+
+Overfull \hbox (31.49973pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 <body>[] 
+ []
+
+
+Overfull \hbox (204.74821pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <nav class="navbar navbar-default">[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 <div class="container">[] 
+ []
+
+
+Overfull \hbox (204.74821pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 <div class="navbar-header">[] 
+ []
+
+
+Overfull \hbox (293.99744pt too wide) in paragraph at lines 322--322
+[]                \OT1/cmtt/m/n/10 <a class="navbar-brand avatar" href="#">[] 
+ []
+
+
+Overfull \hbox (493.4957pt too wide) in paragraph at lines 322--322
+[]                \OT1/cmtt/m/n/10 <img src="./res/img1.png" class = "img-circl
+e" width="90px" height="90px"></a>[] 
+ []
+
+
+Overfull \hbox (94.49918pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 </div>[] 
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 </div>[] 
+ []
+
+
+Overfull \hbox (52.49954pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 </nav>[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <div class="chat_window">[] 
+ []
+
+
+Overfull \hbox (157.49863pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 <div class="top_menu">[] 
+ []
+
+
+Overfull \hbox (388.49661pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 <div class="title">AURO - The Personal Digital A
+ssistant</div>[] 
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 </div>[] 
+ []
+
+
+Overfull \hbox (178.49844pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 <ul class="messages"></ul>[] 
+ []
+
+
+Overfull \hbox (236.24794pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 <div class="bottom_wrapper clearfix">[] 
+ []
+
+
+Overfull \hbox (246.74785pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 <div class="message_input_wrapper">[] 
+ []
+
+
+Overfull \hbox (430.49625pt too wide) in paragraph at lines 322--322
+[]              \OT1/cmtt/m/n/10 <input class="message_input" placeholder="Type
+ your message here..."[] 
+ []
+
+
+Overfull \hbox (162.74858pt too wide) in paragraph at lines 322--322
+[]              \OT1/cmtt/m/n/10 id="user_input"/>[] 
+ []
+
+
+Overfull \hbox (94.49918pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 </div>[] 
+ []
+
+
+Overfull \hbox (288.74748pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 <div class="send_message" id="send_button">[] 
+ []
+
+
+Overfull \hbox (209.99817pt too wide) in paragraph at lines 322--322
+[]                \OT1/cmtt/m/n/10 <div class="icon"></div>[] 
+ []
+
+
+Overfull \hbox (230.99799pt too wide) in paragraph at lines 322--322
+[]                \OT1/cmtt/m/n/10 <div class="text">Send</div>[] 
+ []
+
+
+Overfull \hbox (94.49918pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 </div>[] 
+ []
+
+
+Overfull \hbox (73.49936pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 </div>[] 
+ []
+
+
+Overfull \hbox (52.49954pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 </div>[] 
+ []
+
+
+Overfull \hbox (178.49844pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <div class="message_template">[] 
+ []
+
+
+Overfull \hbox (146.99872pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 <li class="message">[] 
+ []
+
+
+Overfull \hbox (330.74712pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 <div class="avatar" ><img src="./res/assistant.p
+ng"[] 
+ []
+
+
+Overfull \hbox (335.99707pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 class="img-circle" width="60px" height="60px"></
+div>[] 
+ []
+
+
+Overfull \hbox (199.49826pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 <div class="text_wrapper">[] 
+ []
+
+
+Overfull \hbox (304.49734pt too wide) in paragraph at lines 322--322
+[]                \OT1/cmtt/m/n/10 <div class="text"><p id="reply"></p></div>[]
+ 
+ []
+
+
+Overfull \hbox (94.49918pt too wide) in paragraph at lines 322--322
+[]            \OT1/cmtt/m/n/10 </div>[] 
+ []
+
+
+Overfull \hbox (68.2494pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 </li>[] 
+ []
+
+
+Overfull \hbox (52.49954pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 </div>[] 
+ []
+
+
+Overfull \hbox (251.9978pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <footer class="container-fluid text-center">[] 
+ []
+
+
+Overfull \hbox (220.49808pt too wide) in paragraph at lines 322--322
+[]        \OT1/cmtt/m/n/10 <p align="center">A MiniProject by[] 
+ []
+
+
+Overfull \hbox (372.74675pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 <a href="https://www.github.com/SooluThomas" target="_blank"
+>Soolu</a>,[] 
+ []
+
+
+Overfull \hbox (341.24702pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 <a href="https://github.com/ginu123" target="_blank">Ginu</a
+> and[] 
+ []
+
+
+Overfull \hbox (278.24757pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 <a href="https://www.facebook.com/greeshma.mathew.79"[] 
+ []
+
+
+Overfull \hbox (152.24867pt too wide) in paragraph at lines 322--322
+[] \OT1/cmtt/m/n/10 target="_blank">Greeshma</a>[] 
+ []
+
+
+Overfull \hbox (20.99982pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 </p>[] 
+ []
+
+
+Overfull \hbox (68.2494pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 </footer>[] 
+ []
+
+
+Overfull \hbox (220.49808pt too wide) in paragraph at lines 322--322
+[]    \OT1/cmtt/m/n/10 <script src = "./js/main.js"></script>[] 
+ []
+
+
+Overfull \hbox (36.74968pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 </body>[] 
+ []
+
+
+Overfull \hbox (36.74968pt too wide) in paragraph at lines 322--322
+[]\OT1/cmtt/m/n/10 </html>[] 
+ []
+
+)
+! Emergency stop.
+<*> index.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 9 strings out of 493304
+ 164 string characters out of 6139871
+ 90734 words of memory out of 5000000
+ 3566 multiletter control sequences out of 15000+600000
+ 3808 words of font info for 15 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 18i,4n,14p,106b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

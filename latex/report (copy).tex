@@ -1,0 +1,388 @@
+\documentclass[a4 paper,11pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[margin=1.1in]{geometry}
+\usepackage{listings}
+\usepackage{fancyhdr}
+
+\usepackage[english]{babel}
+\lstset{columns=flexible}
+\lstset{keepspaces=true}
+\setlength{\parindent}{4em}
+\setlength{\parskip}{1em}
+\renewcommand{\baselinestretch}{1.5}
+\pagenumbering{gobble}
+
+\graphicspath{ {images/} }
+\begin{document}
+
+\begin{titlepage}
+    \begin{center}
+        
+\Huge
+        \textbf{AURO}
+        
+        \vspace{1cm}
+        \large \textbf{MINI PROJECT REPORT}
+        
+        \vspace{.4cm}
+		\textit{Submitted By}
+		
+		\vspace{.4cm}      
+        \large \textbf{GINU MATHEW\hspace{21mm}(14019917)}\\
+        \large \textbf{GREESHMA MATHEW\hspace{6mm}(14019919)}\\
+        \large \textbf{SOOLU THOMAS\hspace{19mm}(14019981)}\\
+        
+        \vspace{.6cm}
+        \textit{In partial fulfillment for the award of degree of} \\
+        
+        \vspace{.4cm}
+        \large \textbf{Bachelor of Technology}\\
+        \vspace{.4cm}
+        in \\
+        \vspace{.4cm}
+        \large \textbf{Computer Science \& Engineering} \\
+        \vspace{0.1cm}
+		\large \textbf{Mahatma Gandhi University, Kottayam}
+        
+        \vspace{0.4cm}
+        
+        \includegraphics{vjcet.jpg}
+                
+        \vspace{0.4cm}
+        
+        \normalsize \textbf {DEPARTMENT OF COMPUTER SCIENCE \& ENGINEERING}\\
+        \vspace{.4cm}
+        \large \textbf {VISWAJYOTHI COLLEGE OF ENGINEERING \& TECHNOLOGY, VAZHAKULAM}
+        
+    \end{center}
+\end{titlepage}
+
+\begin{titlepage}
+    \begin{center}
+        
+        \Huge
+        \textbf{AURO}
+        
+        \vspace{.2cm}
+        \large \textbf{MINI PROJECT REPORT}
+        
+        \vspace{.2cm}
+		\textit{Submitted By}
+		
+		\vspace{.1cm}      
+        \large \textbf{GINU MATHEW\hspace{21mm}(14019917)}\\
+        \large \textbf{GREESHMA MATHEW\hspace{6mm}(14019919)}\\
+        \large \textbf{SOOLU THOMAS\hspace{19mm}(14019981)}\\
+        
+        \vspace{.4cm}
+        \textit{In partial fulfillment for the award of degree of} \\
+        
+        \vspace{.4cm}
+        \large \textbf{Bachelor of Technology}\\
+        \vspace{.1cm}
+        in \\
+        \vspace{.3cm}
+        \large \textbf{Computer Science \& Engineering} \\
+        \vspace{0.1cm}
+		\large \textbf{Mahatma Gandhi University, Kottayam}
+		
+        \vspace{0.1cm}
+		\textit{Under the guidance of}
+		
+		\vspace{0.1cm}
+		\large\textbf{Mrs. RITTY JACOB\\ Assistant Professor, Department of CSE}       
+        
+        \vspace{0.2cm}
+        
+        \includegraphics[width=.25\textwidth]{vjcet.jpg}
+        
+        \vspace{0.1cm}
+        
+        \normalsize \textbf {DEPARTMENT OF COMPUTER SCIENCE \& ENGINEERING}\\
+        \vspace{.1cm}
+        \large \textbf {VISWAJYOTHI COLLEGE OF ENGINEERING \& TECHNOLOGY, VAZHAKULAM}\\
+        \normalsize \textbf{April 2017}
+        
+    \end{center}
+\end{titlepage}
+
+\newpage
+\thispagestyle{empty}
+\begin{center}
+\large \textbf {VISWAJYOTHI COLLEGE OF ENGINEERING \& TECHNOLOGY, VAZHAKULAM}\\
+\vspace{.4cm}
+\normalsize \textbf{Department of Computer Science and Engineering}
+\vspace{.6cm}
+
+\normalsize \textbf{Mission}
+\end{center}
+\begin{enumerate}
+
+\item Foster the principles and practices of computer science to empower life-long learning and build careers in software and hardware development.
+
+\item Impart value education to elevate students to be successful, ethical and effective problem-solvers to serve the needs of the industry, government, society and the scientific community.
+ 
+\item Promote industry interaction to pursue new technologies in Computer Science and provide excellent infrastructure to engage faculty and students in scholarly research activities.
+\end{enumerate}
+
+\begin{center}
+\textbf{Program Educational Objectives}
+\end{center}
+Our Graduates 
+
+\begin{enumerate}
+\item Shall have creative and critical reasoning skills to solve technical problems ethically and responsibly to serve the society.
+\item Shall have competency to collaborate as a team member and team leader to address social, technical and engineering challenges.
+\item Shall have ability to contribute to the development of the next generation of information technology either through innovative research or through practice in a corporate setting.
+\item Shall have potential to build start-up companies with the foundations, knowledge and experience they acquired from undergraduate education.
+\end{enumerate}
+\newpage
+\begin{center}
+
+\textbf{Program Outcomes}
+\end{center}
+
+\begin{enumerate}
+\item \textbf{Engineering knowledge}: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems. 
+\item \textbf{Problem analysis}: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences. 
+\item \textbf{Design \& development of solutions}: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations. 
+\item \textbf{Conduct investigations of complex problems}: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions. 
+\item \textbf{Modern tool usage}: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations. 
+\item \textbf{The engineer and society}: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice. 
+\item \textbf{Environment and sustainability}: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development. 
+\item \textbf{Ethics}: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+\item \textbf{Individual and team work}: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings. 
+\item \textbf{Communication}: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions. 
+\item \textbf{Project management and finance}: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments. 
+\item \textbf{Life-long learning}: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+\end{enumerate}
+
+\begin{center}
+\textbf{Program Specific Outcomes}
+\end{center}
+\begin{enumerate}
+\item Ability to integrate theory and practice to construct software systems of varying complexity.
+\item Able to Apply Computer Science skills, tools and mathematical techniques to analyze, design and model complex systems.
+\item Ability to design and manage small-scale projects to develop a career in a related industry.
+\end{enumerate}
+
+\newpage
+\thispagestyle{empty}
+    \begin{center}
+        
+        \large
+        \textbf{VISWAJYOTHI COLLEGE OF ENGINEERING \& TECHNOLOGY, VAZHAKULAM}
+        
+        %\vspace{.1cm}
+        \large \textbf{Department of Computer Science \& Engineering }
+        
+		\vspace{0.1cm}        
+        
+        \includegraphics[width=.25\textwidth]{vjcet.jpg}
+        
+        %\vspace{0.4cm}
+        \large \textbf{BONAFIDE CERTIFICATE}
+        \vspace{0.2cm}
+    \end{center}
+This is to certify that the Mini Project report entitled \textbf{``AURO"} is a bonafide record of the work by \textbf{GINU MATHEW (14019917)}, \textbf{GREESHMA MATHEW (14019919)}, \textbf{SOOLU THOMAS (14019981)} in partial fulfillment of the requirements for the award of the degree of \textbf{Bachelor of Technology} in \textbf{Computer Science \& Engineering} of Mahatma Gandhi University, Kottayam.
+\\ \\
+\begin{minipage}{.6\textwidth}
+	%\vspace{1cm}
+	\begin{flushleft} 
+		Date: \underline{\hspace{2.5cm}}\\
+		Place: \textbf{Vazhakulam}\\
+	\end{flushleft}
+\end{minipage}
+%\vspace{1cm}
+\begin{minipage}{.6\textwidth}
+	\vspace{1cm}
+	\begin{flushright} 
+		\begin{flushleft}
+			\hspace{2cm}			
+			\textbf{Mrs. Ritty Jacob}\\
+			\hspace{2cm}
+			\textbf{Project Guide}\\
+			\hspace{2cm}
+			\textbf{Asst. Professor}\\
+			\hspace{2cm}
+			\textbf{CSE Dept. VJCET}\\
+		\end{flushleft}
+	\end{flushright}
+\end{minipage}
+%\vspace{.75cm}
+\begin{minipage}{.6\textwidth}
+	\vspace{1cm}
+	\begin{flushleft} 
+		\textbf{Dr. K. N. Ramachandran Nair}\\
+		\textbf{Professor and HOD}\\
+		\textbf{CSE Dept. VJCET}\\
+		\vspace{1.7cm}
+		\textbf{External Examiner}\\
+		\vspace{1cm}
+		\underline{\hspace{4cm}}
+	\end{flushleft}
+\end{minipage}
+\begin{minipage}{.6\textwidth}
+	\vspace{1cm}
+	\begin{flushright} 
+		\begin{flushleft}
+			\hspace{2cm}
+			\textbf{Mrs. Nimmy George}\\
+			\hspace{2cm}
+			\textbf{Project Coordinator}\\
+			\hspace{2cm}
+			\textbf{Asst. Professor}\\
+			\hspace{2cm}
+			\textbf{CSE Dept. VJCET}\\
+			\vspace{0.9cm}
+			\hspace{2cm}
+			\textbf{Internal Examiner}\\
+			\vspace{1cm}
+			\hspace{2cm}
+			\underline{\hspace{4cm}}
+		\end{flushleft}
+	\end{flushright}
+\end{minipage}
+
+
+
+\newpage
+\thispagestyle{empty}
+\begin{center}
+	\Large \textbf{ACKNOWLEDGEMENT}
+	\vspace{1cm}
+\end{center}
+First and foremost we thank God Almighty for His divine grace and blessings in making this project possible.  May he continue to lead us in the years to come.  It is our privilege to render heartfelt thanks and gratitude to our Manager, \textbf{Msgr. George Oliapuram} and Principal, \textbf{Dr. Joseph KunjuPaul C.} for providing the opportunity to do this project during the third year (2017) of our B.Tech degree course.  We are deeply thankful to the Head of the Department, \textbf{Dr. K. N. Ramachandran Nair} for his support and encouragement.  We would like to express our sincere gratitude to our project guide \textbf{Mrs. Ritty Jacob}, Assistant Professor, Department of Computer Science and Engineering for her motivation, assistance and help for the project.  We also express sincere thanks to the project coordinator \newline \textbf{Mrs. Nimmy George}, Assistant Professor, Department of Computer Science and Engineering for her guidance and support.  We also thank all the staff members of the Computer Science Department for providing their assistance and support.  Last, but not the least we thank all our friends and family for their valuable feedback from time to time as well as their help and encouragement.  We hereby apologize for any kind of omissions that may have taken place by mistake.
+
+
+
+\newpage
+\thispagestyle{empty}
+\begin{center}
+\Large \textbf{ABSTRACT}
+\vspace{1cm}
+\end{center}
+Our common understanding of a personal assistant is that of a person (or an agent) who is able to provide distinct help at a given time and in a given activity context. We must be very much familiar with the commercial products such as Apple’s Siri, Google’s Now and api.ai’s Speak to It Assistant which are the necessary technology inventions (ie., composition of Natural Language Processing, Auto Speech synthesis, Dialogue management and Text-speech Processing) during the past 5 years. The possible application scenario have progressively been changing and now involves domains such as healthCare, weather forecast, navigation, translation, information and tutoring. This personal assistant (AURO) can be used to respond to simple questions and arithmetic calculations.
+
+\newpage
+\tableofcontents
+\thispagestyle{empty}
+
+\newpage
+%\cleardoublepage
+\addcontentsline{toc}{chapter}{\listfigurename}
+\listoffigures
+\renewcommand{\thepage}{\roman{page}}
+\setcounter{page}{1}
+
+\newpage
+%\cleardoublepage
+\addcontentsline{toc}{chapter}{\listtablename}
+\listoftables
+
+\newpage
+
+\begin{center}
+\Large \textbf{LIST OF ABBREVIATIONS}
+
+\vspace{1cm}
+\setcounter{page}{3}
+\begin{tabular}{l l}
+SRS & Software Requirements Specification \\
+DFD & Data Flow Diagram \\
+NLTK & Natural Language Toolkit \\
+NLP & Natural Language Proccessing \\
+NN	& Noun Singular \\
+NNS	& Noun Plural \\
+NNP	& Proper Noun, Singular \\
+NNPS& Proper Noun, Plural \\
+CD	& Cardinal Digit \\
+\end{tabular}
+\end{center}
+
+\clearpage
+\pagestyle{plain}
+\renewcommand{\thepage}{\arabic{page}}
+\setcounter{page}{1}
+\chapter{PREAMBLE}
+\pagestyle{fancy}
+\rhead{AURO}
+\lhead{}
+\lfoot{CSE Dept., VJCET}
+%\cfoot{\page} 
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\input{preamble.tex}
+
+\chapter{SYSTEM STUDY}
+\input{systemstudy.tex}
+
+\chapter{SYSTEM DESIGN AND MODELLING}
+\input{systemdesign.tex}
+
+\chapter{IMPLEMENTATION}
+\input{implementation.tex}
+
+\chapter{TESTING}
+\input{testing}
+
+\chapter{CONCLUSION}
+\input{conclusion}
+
+\newpage
+\renewcommand{\thepage}{\roman{page}}
+\setcounter{page}{4}
+\addcontentsline{toc}{chapter}{APPENDIX A}
+\section*{APPENDIX A}
+\input{index}
+\input{mai}
+\input{view}
+
+\newpage
+\section*{APPENDIX B}
+\addcontentsline{toc}{chapter}{APPENDIX B}
+\input{screenshots}
+
+\renewcommand\bibname{References}
+\begin{thebibliography}{9}
+\bibitem{ieee} 
+[IEEE Standard 181-1998]: The standard followed by the current SRS
+ 
+\bibitem{pressman} 
+Roger.S.Pressman, Software Engineering: A Practitioner’s Approach, McGraw Hill International edition, Seventh edition.
+ 
+\bibitem{morgan} 
+Synthesis Lectures on Human Language Technologies, Morgan \& Claypool, 2015
+
+\bibitem{gobinda}
+Natural Language Processing Gobinda G. Chowdhury Dept. of Computer and Information Sciences University of Strathclyde, Glasgow G1 1XH, UK
+
+\bibitem{python}
+Core Python Programming Wesley J. Chun Publisher: Prentice Hall PTR First Edition December 14, 2000
+
+\bibitem{web1}
+Website Reference for Natural Language Processing in Python.
+Link: \textit{http://pythonprogramming.net}
+
+\bibitem{heaton}
+Artificial Intelligence for Humans, Volume 3: Deep Learning and Neural Networks, Jeff Heaton,Copyright    2015 by Heaton Research, Inc.
+
+\bibitem{nltk}
+Natural Language ToolKit for NLP in Python
+Link: \textit{http://www.nltk.org}
+
+\bibitem{jquery}
+Link: \textit{https://jquery.com/}
+
+\bibitem{jquery}
+Link: \textit{https://www.djangoproject.com/}
+
+Link: \textit{https://www.heroku.com/}
+
+Link: \textit{https://en.wikipedia.org/wiki/Git}
+\end{thebibliography}
+
+
+
+\end{document}

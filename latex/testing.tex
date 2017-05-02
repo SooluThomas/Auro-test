@@ -1,0 +1,63 @@
+\section{Introduction}
+Testing is the process of executing a program with the indent of finding any errors .A good test of course has the high probability of finding a yet undiscovered error. A successful testing is the one that uncovers a yet undiscovered error. A test is vital to the success of the system. System test makes a logical assumption that if all parts of the system are correct, then goal will be successfully achieved. The candidate system is subjected to a variety of tests online like responsiveness, its value, stress and security. A series of tests are performed before the system is ready for user acceptance testing. 
+\newline
+The success of testing in revealing errors depends on the test cases. Testing should help locate errors, not just detect their presence. Test should be organized in a way that helps isolate errors.
+\newline
+Thus testing should be considered only one of the means to analyze the behavior of a system and should be integrated with other verification techniques in order to enhance our confidence in system qualities as much as possible. 
+\newline
+System testing of software or hardware is testing conducted on a complete, integrated system to evaluate the system’s compliance with its specified requirements. System testing falls within the scope of black box testing, and as such, should require no knowledge of the inner design of the code or logic.
+\newline
+Black-box testing is a method of software testing that tests the functionality of an application as opposed to its internal structures or workings. Specific knowledge of the application's code/internal structure and programming knowledge in general is not required. Test cases are built around specifications and requirements, i.e., what the application is supposed to do. It uses external descriptions of the software, including specifications, requirements, and designs to derive test cases. These tests can be functional or non-functional, though usually functional. 
+\newline
+ The test designer selects valid and invalid inputs and determines the correct output. There is no knowledge of the test object's internal structure. This method of test can be applied to all levels of software testing: unit, integration, functional, system and acceptance. It typically comprises most if not all testing at higher levels, but can also dominate unit testing as well.  
+ 
+\subsection*{Unit Testing}
+In unit testing different modules are tested against the specification produced during the design of modules. Unit testing is essential for verification during coding phase. The aim is to test the internal logic of the modules. The tests carried out during the programming stage itself. 
+\newline
+This enables the tester to detect errors in coding and logic that are contained within that module alone. Those resulting from the interaction between modules are initially avoided. Unit test comprises the set of performed prior to integration of the unit in to the entire project. Four categories of tests are performed on each unit.
+\newline
+\textbf{Functional test}:  The code is exercised with normal input values for which the expected results are shown, as well as boundary values and values on and just outside the functional boundaries and special values such as logically related inputs. 
+\newline
+\textbf{Performance Test}:  Performance test is done to determine the amount of execution time spent in various parts of the unit, program throughput and response time and device utilization by the program unit. 
+\newline
+\textbf{Stress Test}: Stress test intentionally breaks the unit. This helps in learning about the strength and limitations of the program by examining the manner in which a program unit breaks. 
+\newline
+\textbf{Structure Test}: Structure tests are used to test the internal logic of a program. The major activity involved in this is to decide which paths to exercise, deriving test to exercise those paths, determining the test coverage criteria to be used. 
+
+\subsection*{Integration Testing}
+Integration testing focuses on the design and the construction of the software architecture. The data can be lost across the interface or one module can pose an adverse effect on another. The sub functions when combined may not produce the major function. Integration testing is a systematic technique for the program structure, while at the same conducting test to uncover errors associated with the interface. In this test, groups of the program modules are tested together to determine if they interface properly. Two types of integration testing are:
+\newline
+\textbf{Top down Integration}: This method is an incremental approach to one construction of program structure. Modules are integrated by moving downward through the control hierarchy, beginning with the main program module. The modules subordinates to the main program module are incorporated into the structure in either a depth first or breadth first manner.
+\newline
+\textbf{Bottom up Integration}: This method begins the construction and testing with the modules at the lowest level in the program structure. Since the modules are integrated from the bottom up, processing required for modules subordinate to a given level is always available and the need for the stubs is eliminated.
+
+\subsection*{System Testing}
+System testing is a critical element of quality assurance and represents the ultimate review of analysis, design and coding. When a system is developed it is hoped that it performs, manual procedures, computer operations and control.
+\newline
+System testing is the process of checking whether the developed system is working according to the objective and requirement. All testing accordance to the test conditions specified earlier. This will ensure that the test coverage meets the requirements and that testing is done in a systematic manner. 
+
+\section{Test Cases}
+A test case in software engineering is a set of conditions or variables under which a tester will determine whether an application or software system is working correctly or not. It is the mechanism for determining 
+whether a software program or system has passed or failed such a test is known as a test oracle. In some
+settings, an oracle could be a requirement or use case, while in others it could be a heuristics. It may take many test cases to determine that a software program or system is functioning correctly. Test cases are often referred to as test scripts, particularly when written. Written test cases are usually collected into test suites.
+\vspace{2cm}
+\begin{table}[h]
+\begin{center}
+ \begin{tabular}{ |c|c|c|c|c| } 
+ \hline
+ \textbf{Sno} & \textbf{Unit to test} & \textbf{Test Data} & \textbf{Expected Result} & \textbf{Status} \\  
+ \hline
+  1 &\begin{tabular}{@{}c@{}} Who is the president\\ of india \end{tabular} & Pranab Mukherji & Pranab Mukherji & Pass \\ 
+ \hline
+ 2 & \begin{tabular}{@{}c@{}}What is the capital \\ of kerala \end{tabular} & Thiruvananthapuram & Thiruvananthapuram & Pass \\
+ \hline
+ 3 & Who killed indira gandhi &  assassination | firearm  & \begin{tabular}{@{}c@{}}Satwant Singh \\ \& Beant Singh \end{tabular} & Fail \\ 
+ \hline
+ 4 & What is president of india & Pranab Mukherji & Null & Fail \\
+ \hline
+ 
+\end{tabular}
+\label{Tab 1:}
+\caption{Test Case Table}
+\end{center}
+\end{table}
